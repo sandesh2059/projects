@@ -1,0 +1,9 @@
+this program will have 
+entities: books, student, admin
+actions:  issue books, return books, can check what issued to whom
+
+student has name, id
+book has author, title, category
+
+---------------for now this much if i have to add something i will write below it--------------------------------------
+
